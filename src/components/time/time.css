@@ -1,0 +1,11 @@
+.sec{
+    font-size: 15px;
+    opacity: .5;
+    
+    align-items: baseline;
+    margin-top: 32px;
+    margin-left: 3px;
+}
+.hrs{
+   text-align: left;
+}
